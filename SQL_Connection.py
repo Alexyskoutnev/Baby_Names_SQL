@@ -1,5 +1,5 @@
 #Author : Alexy Skoutnev
-#Connection to Baby_Names SQL Server and inserts values from names.txt
+#Description: Connection to Baby_Names SQL Server and inserts values from names.txt
 #Date : 1/12/2020
 
 import mysql.connector
