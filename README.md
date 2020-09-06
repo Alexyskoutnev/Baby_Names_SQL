@@ -14,7 +14,9 @@ Utilizes SQL Server and Python to analyze a baby names data set.
 2. Allows you start working with the data and you would need to enter the database name and its password on the MYSQL server.
 
 ============================= Data Analysis (Step 3) ===================================
+
 -- Once pressing 2 on the previous step, there should be connection between your computer and the MySQL server. --
+
 1. Finds a specific name in the database and its highest ranking popularity in a decade since 1900.
 2. Finds a specific name in the database and its corresponding popularity each decade since 1900.
 3. Finds a specific decade in the database and its corresponding name rankings from least to greatest.
