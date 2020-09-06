@@ -15,13 +15,13 @@ Utilizes SQL Server and Python to analyze a baby names data set.
 
 ============================= Data Analysis (Step 3) ===================================
 -- Once pressing 2 on the previous step, there should be connection between your computer and the MySQL server. --
-Choice 1 - Finds a specific name in the database and its highest ranking popularity in a decade since 1900.
-Choice 2 - Finds a specific name in the database and its corresponding popularity each decade since 1900.
-Choice 3 - Finds a specific decade in the database and its corresponding name rankings from least to greatest.
-Choice 4 - Finds a specific name that only appears once in a single decade since the 1900s.
-Choice 5 - Finds names that are increasing in popularity every decade since the 1900s
-Choice 6 - Finds names that are decreasing in popularity every decade since the 1900s.
-Choice 7 - Exits the program.
+1. - Finds a specific name in the database and its highest ranking popularity in a decade since 1900.
+2.- Finds a specific name in the database and its corresponding popularity each decade since 1900.
+3. - Finds a specific decade in the database and its corresponding name rankings from least to greatest.
+4. - Finds a specific name that only appears once in a single decade since the 1900s.
+5. - Finds names that are increasing in popularity every decade since the 1900s.
+6. - Finds names that are decreasing in popularity every decade since the 1900s.
+7. - Exits the program.
 
 
 
